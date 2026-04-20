@@ -1,0 +1,16 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-25",
+      "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-25"
+    },
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-21"
+    }
+  ],
+  "java.configuration.checkProjectSettings": false
+}
+{
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
