@@ -3,7 +3,7 @@ public class TresEnRaya {
 
     private final char[][] tablero = new char[3][3];
     private char ultimoJugador = '\0';
-
+    // Hola Andres, te cuidas
     // Devuelve el siguiente jugador a jugar según la última jugada
     public char obtenerSiguienteJugador() {
         if (ultimoJugador == '\0') return 'X';
